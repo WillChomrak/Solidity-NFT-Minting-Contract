@@ -33,7 +33,7 @@ Now you are almost ready to click the "Deploy" button. In order to deploy this c
 
 \_initBaseUri is VERY IMPORTANT. This is the CID address from the metadata directory you uploaded to Pinata using my Python-NFT-Collection-Generator repository instructions. If you do not enter this EXACTLY your smart contract will not be connected to your NFT artwork. You must type "ipfs://<YourCID>". Cut "<YourCID>" and replace it with your actual CID. Your CID can be found in your Pinata account. Remember it is the CID for your metadata directory, not for your images directory.
   
-Once you have entered all 4 constructor parameters correctly - click that deploy button. Metamask will once again ask for your confirmation and this time will charge you for the transaction. Once deployed, you will see your new contract under the "Deployed Contracts". Click the arrow to expand and interact with it.
+Once you have entered all 4 constructor parameters entered correctly - click that deploy button. Metamask will once again ask for your confirmation and this time will charge you for the transaction. Once deployed, you will see your new contract under the "Deployed Contracts". Click the arrow to expand and interact with it.
  
 Tip: Copy the contract address and paste it at the top of that same txt doc when you pasted your contract ABI.
 
