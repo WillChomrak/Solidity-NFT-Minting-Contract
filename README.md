@@ -5,7 +5,7 @@ This README assumes you have the Metamask Wallet extension installed in your bro
 # Solidity-NFT-Minting-Contract
 This contract allows you to lazy mint a NFT collection on the Ethereum or Polygon blockchains.
 
-With a few simple customization you will be able to deply this contract onto one of these networks so people can pay to mint your NFTs.
+With a few simple customization you will be able to deploy this contract onto one of these networks so people can pay to mint your NFTs.
 
 <h2>CUSTOMIZE</h2>
 
