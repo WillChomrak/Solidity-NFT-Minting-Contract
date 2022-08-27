@@ -1,5 +1,3 @@
-IN PROGRESS
-
 This README assumes you have the Metamask Wallet extension installed in your browser. I will explain the code with the intention that it will be used on the Polygon network, but it will work exactly the same on Ethereum and the Ethereum network. 
 
 # Solidity-NFT-Minting-Contract
